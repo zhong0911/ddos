@@ -23,10 +23,9 @@ os.system("clear")
 os.system("figlet DDos Attack")
 print " "
 print "/---------------------------------------------------\ "
-print "|   Author          : Andysun06                     |"
-print "|   Author github   : https://github.com/Andysun06  |"
-print "|   Kali-QQ learning group : 909533854              |"
-print "|   Edition         : V1.0.0                        |"
+print ("|   作者          : zhong                           |")
+print ("|   作者github    : https://github.com/zhong0911    |")
+print ("|   版本          : V1.0.0                          |")
 print "\---------------------------------------------------/"
 print " "
 print " ---------[Do not use for illegal purposes]--------- "
